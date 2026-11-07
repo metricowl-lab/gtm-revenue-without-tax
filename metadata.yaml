@@ -1,0 +1,5 @@
+homepage: "https://www.metricowl.co.uk/gtm-templates"
+documentation: "https://github.com/metricowl-lab/gtm-revenue-without-tax#readme"
+versions:
+  - sha: c41b2bdf83c3c002140bdf42d8893ecb06bb989e
+    changeNotes: Initial release.
