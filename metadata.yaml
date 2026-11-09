@@ -1,5 +1,10 @@
 homepage: "https://www.metricowl.co.uk/gtm-templates"
 documentation: "https://github.com/metricowl-lab/gtm-revenue-without-tax#readme"
 versions:
+  - sha: e830268a9e2f732f9ffa43fbca1cbb7ccdce311d
+    changeNotes: |-
+      Template name now starts with Metric Owl and says whether it's a tag or a variable.
+      Description links to the documentation and support page.
+      Licence copyright line filled in.
   - sha: c41b2bdf83c3c002140bdf42d8893ecb06bb989e
     changeNotes: Initial release.
